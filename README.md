@@ -5,11 +5,9 @@
 
 💡 &nbsp;I am passionate about technology\
 🎓 &nbsp;I'm currently studying Telematic Engineering at the ICESI University of Cali, Colombia.\
-🌱 &nbsp;.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+✍️ &nbsp;I like to keep learning more every day \
+🍃 &nbsp;In my free time I enjoy spending time with my family, exercising, appreciating the environment and listening to music.\
+🏁 &nbsp; One of my main skills is teamwork, I think that brainstorming allows us to have a broader view at the time of solving a problem and meet the objective.
 
 
 ### 🛠 &nbsp;Technologies
@@ -17,12 +15,12 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-Studio)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=2C2255)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=Wireshark)&nbsp;
 ![Vagrant](https://img.shields.io/badge/-Vagrant-05122A?style=flat&logo=Vagrant)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
