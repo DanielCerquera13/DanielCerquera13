@@ -10,7 +10,7 @@
 🏁 &nbsp; One of my main skills is teamwork, I think that brainstorming allows us to have a broader view at the time of solving a problem and meet the objective.
 
 
-### 🛠 &nbsp;Technologies
+### 💻 &nbsp;Technologies
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-Studio)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
