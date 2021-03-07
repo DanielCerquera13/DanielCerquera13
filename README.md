@@ -13,7 +13,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/DanielCerquera13/DanielCerquera13/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -38,7 +38,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/daniel-cerquera"><img src="https://img.shields.io/badge/-Daniel Cerquera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:danielalejandrocerquera@gmail.com"><img src="https://img.shields.io/badge/-danielalejandrocerquera@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/danielcerquera13"><img src="https://img.shields.io/badge/-@danielcerquera13-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/DanielAlejandroCerquera"><img src="https://img.shields.io/badge/-Daniel Alejandro Cerquera-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
