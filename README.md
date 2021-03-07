@@ -37,8 +37,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/DanielCerquera"><img src="https://img.shields.io/badge/-DanielCerquera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/danielcerquera"><img src="https://img.shields.io/badge/-Daniel Cerquera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/danielcerquera13"><img src="https://img.shields.io/badge/-@danielcerquera13-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/DanielAlejandroCerquera"><img src="https://img.shields.io/badge/-@DanielAlejandroCerquera-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/DanielAlejandroCerquera"><img src="https://img.shields.io/badge/-@Daniel Alejandro Cerquera-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
